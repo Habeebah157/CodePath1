@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` This is a Flashcard app. 
+`TODO://` This is a Flashcard app using android studio with kotlin
 
 ### App Walk-though
 
